@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(254, 254, 254);
+}
+
+hr {
+    height: 10px;
+    background-color: rgb(235, 116, 18);
+    border: none;
+}
+mark{
+    background-color: rgb(235, 116, 18);
+}
